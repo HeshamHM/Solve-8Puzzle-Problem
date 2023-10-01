@@ -1,5 +1,3 @@
-# Solve-8Puzzle-Problem
-solving 8 puzzle problem using BFS and A* algorithm
 # The 8-Puzzle Problem
 
 The 8-puzzle problem is a classic puzzle and a type of sliding puzzle that consists of a 3x3 grid with eight numbered tiles and one empty space. The goal of the puzzle is to rearrange the tiles from their initial configuration into a target or goal configuration by sliding them one at a time into the empty space. The target configuration is usually a specific order of numbers, such as in ascending order from left to right, top to bottom, with the empty space in the bottom-right corner.
