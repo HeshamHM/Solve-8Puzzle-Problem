@@ -1,0 +1,23 @@
+D:\C#Ado\8 Puzzle\8 Puzzle\bin\Debug\8 Puzzle.exe.config
+D:\C#Ado\8 Puzzle\8 Puzzle\bin\Debug\8 Puzzle.exe
+D:\C#Ado\8 Puzzle\8 Puzzle\bin\Debug\8 Puzzle.pdb
+D:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\_8_Puzzle.Form1.resources
+D:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\_8_Puzzle.Properties.Resources.resources
+D:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.csproj.GenerateResource.cache
+D:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.csproj.CoreCompileInputs.cache
+D:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.exe
+D:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.pdb
+D:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.csproj.CopyComplete
+D:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.csproj.AssemblyReference.cache
+F:\C#Ado\8 Puzzle\8 Puzzle\bin\Debug\8 Puzzle.exe.config
+F:\C#Ado\8 Puzzle\8 Puzzle\bin\Debug\8 Puzzle.exe
+F:\C#Ado\8 Puzzle\8 Puzzle\bin\Debug\8 Puzzle.pdb
+F:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.csproj.AssemblyReference.cache
+F:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.csproj.SuggestedBindingRedirects.cache
+F:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\_8_Puzzle.Form1.resources
+F:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\_8_Puzzle.Properties.Resources.resources
+F:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.csproj.GenerateResource.cache
+F:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.csproj.CoreCompileInputs.cache
+F:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.csproj.CopyComplete
+F:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.exe
+F:\C#Ado\8 Puzzle\8 Puzzle\obj\Debug\8 Puzzle.pdb
